@@ -4,6 +4,8 @@ En esta ayudantía utilizaremos el IPCore AXI Timer en nuestro diseño de hardwa
 
 Ejercitaremos el uso de interrupciones y también aprenderemos a habilitar el modo PWM que admite AXI Timer, esto último para variar la intensidad del canal R del led RGB modificando el duty cycle de la señal PWM que generaremos.
 
+Adicionalmente también revisaremos cómo programar la Zybo desde ambos programas: desde Vitis y desde Vivado.
+
 1. Previo a nuestra ayudantía debes revisar este [video]() y ejecutarlo en tu casa.
 
 2. Los documentos asociados a la ejecución de este laboratorio son:
