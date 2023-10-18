@@ -6,7 +6,7 @@ Ejercitaremos el uso de interrupciones y también aprenderemos a habilitar el mo
 
 Adicionalmente también revisaremos cómo programar la Zybo desde ambos programas: desde Vitis y desde Vivado.
 
-1. Previo a nuestra ayudantía debes revisar este [video]() y ejecutarlo en tu casa.
+1. Previo a nuestra ayudantía debes revisar este [video](https://youtu.be/eUUw3ANzMpg) y ejecutarlo en tu casa.
 
 2. Los documentos asociados a la ejecución de este laboratorio son:
     * [AYUD07-Guia Ejercicio]():  Guía de ejercicios asociado a la ayudantía. 
